@@ -24,7 +24,6 @@
               </a>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="/profile" style="color: black !important" href="#">Edit Profile</a></li>
-                <li><a class="dropdown-item" href="/changepassword" style="color: black !important" href="#">Change Password</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li>
                   <a class="dropdown-item" style="color: black !important" href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>

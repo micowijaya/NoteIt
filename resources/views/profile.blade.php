@@ -28,18 +28,6 @@
             </div>
         </div>
 
-        <div class="row mt-3">
-            <div class="mb-3 col-md-6">
-                <label for="profilePassword" class="form-label"><b>Enter Current Password</b></label>
-                <input type="password" class="form-control" id="profilePassword">
-            </div>
-    
-            <div class="mb-3 col-md-6">
-                <label for="profileCPassword" class="form-label"><b>Re-enter Current Password</b></label>
-                <input type="password" class="form-control" id="profileCPassword">
-            </div>
-        </div>
-
         <div class="d-flex justify-content-center">
             <button type="submit" class="mt-4 btn btn-add" style="width: 20%">Submit</button>
 
